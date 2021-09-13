@@ -26,5 +26,6 @@
 - Justify how the visual addresses your research question
 
 # 4. Becoming an Independent Data Scientist
-  - project
+  - projects on each topic
+  
      
